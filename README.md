@@ -7,6 +7,8 @@ Alarm clock use case diagram and description
 
 Description:
 
+___
+
 ID:UC_01
 
 Title: Set Time
@@ -28,7 +30,7 @@ Frequency of Use: The first time the clock is plugged in or whenever it is taken
 Priority: High – Basic functionality of clock
 
 
-
+___
 
 ID: 	UC_02
 
@@ -51,8 +53,7 @@ Frequency of Use:	Each time the user wants to set a new alarm.
 Priority:	High – Basic functionality of an alarm clock.
 
 
-
-
+___
 
 ID: 	UC_03
 
