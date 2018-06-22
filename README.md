@@ -4,7 +4,8 @@ Alarm clock use case diagram and description
 ![Alt](AlarmClockUseCaseDiagram.jpg "Alarm clock use case diagram")
 
 
-__
+--
+
 ID:UC_01
 
 Title: Set Time
@@ -25,7 +26,7 @@ Frequency of Use: The first time the clock is plugged in or whenever it is taken
 
 Priority: High – Basic functionality of clock
 
-__
+--
 
 ID: 	UC_02
 
@@ -47,7 +48,7 @@ Frequency of Use:	Each time the user wants to set a new alarm.
 
 Priority:	High – Basic functionality of an alarm clock.
 
-__
+--
 
 
 ID: 	UC_03
