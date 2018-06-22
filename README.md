@@ -4,7 +4,12 @@ Alarm clock use case diagram and description
 ![Alt](AlarmClockUseCaseDiagram.jpg "Alarm clock use case diagram")
 
 
---
+
+Description:
+
+__
+
+
 
 ID:UC_01
 
