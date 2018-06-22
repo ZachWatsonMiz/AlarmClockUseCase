@@ -6,15 +6,25 @@ Alarm clock use case diagram and description
 
 
 |ID:|UC_01|
+
 |Title:|Set Time|
+
 |Description:|The user will set the clock to the current time|
+
 |Primary Actor:|The Operator|
+
 |Preconditions:|The Clock is plugged in|
+
 |Postconditions:|The clock will display the time|
+
 |Main Success Scenario:|The user will use two buttons; the minute and hour buttons. To set the time and it will be displayed on the clock|
+
 |Extensions:|Error checking to only enter valid times, and checking if the 12hr or 24hr switch is toggled.|
+
 |Frequency of Use:|The first time the clock is plugged in or whenever it is taken off and reconnected to power.|
+
 |Priority:|High – Basic functionality of clock|
+
 
 
 
