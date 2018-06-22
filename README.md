@@ -1,4 +1,4 @@
 # AlarmClockUseCase
 Alarm clock use case diagram and description
 
-![Alt](AlarmClockUseCasedDiagram.jpg "Alarm clock use case diagram")
+![Alt](AlarmClockUseCaseDiagram.jpg "Alarm clock use case diagram")
